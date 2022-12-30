@@ -6,7 +6,7 @@
   "author": "Matt Gawarecki <matt.gawarecki@gmail.com>",
   "dependencies": {
     "date-fns": "^1.30.1",
-    "gatsby": "^2.20.17",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-canonical-urls": "^2.2.1",
     "gatsby-plugin-feed": "^2.4.1",
     "gatsby-plugin-google-analytics": "^2.2.2",
